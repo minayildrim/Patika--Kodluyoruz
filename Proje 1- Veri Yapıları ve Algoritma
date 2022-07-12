@@ -21,8 +21,8 @@
     Best case: O(n)
     
     3.
-    Worst case: [27, 22, 18, 16, 6, 2]  
-    Best case:  [2, 6, 16, 18, 22, 27]
+    Best case:   [18, 22, 27, 16, 2, 6]  
+    Worst case:  [22, 27, 16, 2, 6, 18]
     
     
     4.
