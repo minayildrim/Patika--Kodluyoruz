@@ -6,7 +6,7 @@
 
 
 root = 7 olsun. root'un solunda sayıdan küçük olan elemanlar, sağında ise sayıdan büyük olan elemanlar bulunur.
-Dizideki her sayı root'a sorarak ve büyüklük- küçüklüklerine göre sayıların hepsini yerleştirerek Binary Search Tree tamamlanır.
+Dizideki her sayıyı root'a sorarak ve büyüklük- küçüklüklerine göre sayıların hepsini yerleştirerek Binary Search Tree tamamlanır.
 
 
 
